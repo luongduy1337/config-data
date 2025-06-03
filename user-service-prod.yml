@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: user-service
+
+logging:
+  level:
+    root: WARN
+
+greeting:
+  message: "Hello from Native Config Prod"
