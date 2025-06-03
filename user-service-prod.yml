@@ -7,4 +7,4 @@ logging:
     root: WARN
 
 greeting:
-  message: "Hello from Native Config Prod"
+  message: "Hello from Native Config Prod Updated 15:56"
